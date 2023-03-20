@@ -1,2 +1,2 @@
 # Terraform-Azure-Demo
-Setting up a few Azure resources  using Terraform
+Practicing setting up a few Azure resources  using Terraform
